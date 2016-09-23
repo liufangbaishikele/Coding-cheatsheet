@@ -38,4 +38,6 @@ Above syntax comes from [github help] (https://help.github.com/articles/basic-wr
 
 `[github help] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)` is used to creat this link
 
+`[link name]` and `(corresponding address)` together define this link
+
 
