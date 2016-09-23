@@ -21,9 +21,9 @@ Edit readme.md file
 ``quote code``is used to quote a code, which means inside of a sentence
 
 ##Ignore formatting
-`\**ignore this content\**` will print out \**ignore this content** instead of bolded **ignore this content** 
-
 Whenever we want to  disable a markdown, we just need to put a `\` infront it  
+
+e.g., `\*list 1`will not creat a list, it just treat \*list 1 as formal content
 
 ## creat list 
 `* ` is used for creat list. 
