@@ -24,7 +24,8 @@ Edit readme.md file
 `\*ignore this content*\` will print out
 
 \*ignore this content*\
-instead of bolded *ignore this content* 
+instead of bolded
+*ignore this content* 
 
 ## creat list 
 `* ` is used for creat list. 
