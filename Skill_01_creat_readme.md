@@ -15,7 +15,10 @@ Edit readme.md file
 `~~word~~`is used to  elide  words. i.e., ~~word~~
 
 ## creat list 
-`* ` is used for creat list. e.g., `* list 1` will print out like
+`* ` is used for creat list. 
+`* list 1 
+*list2
+*list3` will print out like
 * list1
 * 1ist2
 * list3
