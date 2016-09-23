@@ -32,6 +32,6 @@ Above syntax comes from [github help] (https://help.github.com/articles/basic-wr
 
 `[github help] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)` is used to creat this link
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+-[x] Finish my changes
+-[ ] Push my commits to GitHub
+-[ ] Open a pull request
