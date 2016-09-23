@@ -23,7 +23,7 @@ Edit readme.md file
 ##Ignore formatting
 Whenever we want to  disable a markdown, we just need to put a `\` infront it  
 
-e.g., `\*list 1`will not creat a list, it just treat \*list 1 as formal content
+e.g., `\*list 1`will not creat a list, it just treat `\*list` 1 as formal content
 
 ## creat list 
 `* ` is used for creat list. 
