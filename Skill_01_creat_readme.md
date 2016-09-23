@@ -9,8 +9,8 @@ Edit readme.md file
 
 
 **This is used to bold text**
-*This is used to creat list
-*list?
+* This is used to creat list
+* list?
 # how to exit list?
 *This is used to italicize text* 
 ~~This is used to lable mistaken text~~
