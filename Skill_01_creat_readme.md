@@ -16,13 +16,9 @@ Edit readme.md file
 
 ## creat list 
 `* ` is used for creat list. 
-`* list 1 
-*list 2
-*list 3` will print out like
+`* list 1 *list 2 *list 3` will print out like
 
-* list1
-* 1ist2
-* list3
+* list1 * 1ist2 * list3
 
 ##link
 
