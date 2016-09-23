@@ -10,7 +10,7 @@ Edit readme.md file
 
 `**Words**` are used to bold words. i.e., **Words**
 
-`* ` is used for creat list. e.g., `* list 1` will print out like * list1
+`* ` is used for creat list. e.g., `* list 1` will print out like -list1
 
 * list?
 # how to exit list?
