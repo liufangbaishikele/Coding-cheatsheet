@@ -14,11 +14,14 @@ Edit readme.md file
 
 `~~word~~`is used to  elide  words. i.e., ~~word~~
 
+## How to quoting code
+``quote code``is used to quote a code, which means inside of a sentence, the quoted part will not be formatted
 ## creat list 
 `* ` is used for creat list. 
-`* list 1 *list 2 *list 3` will print out like
+`* list 1 ` will print out like
 
-* list1 * 1ist2 * list3
+* list1 
+`Here is a easy way to creat lists with order and hierarchically`
 
 ##link
 
