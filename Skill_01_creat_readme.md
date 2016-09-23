@@ -1,4 +1,5 @@
 ### How to creat README.md file using script 
+
 ```
 vi filename
 copy the content and paste into github file
@@ -7,7 +8,7 @@ Edit readme.md file
 ````
 ## Here are some basic formating syntax
 
-
+`**Words**` are used to bold text
 **This is used to bold text**
 * This is used to creat list
 * list?
