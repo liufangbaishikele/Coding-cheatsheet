@@ -10,6 +10,7 @@ Edit readme.md file
 
 **This is used to bold text**
 * This is used to creat list
+* 
 *This is used to italicize text* 
 ~~This is used to lable mistaken text~~
 **How about *Italic* and bold**
