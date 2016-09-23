@@ -9,7 +9,9 @@ Edit readme.md file
 ## Here are some basic formating syntax
 
 `**Words**` are used to bold words. i.e., **Words**
+
 `*word*` is used to italicize text. i.e., *word*
+
 `~~word~~`is used to  elide  words. i.e., ~~word~~
 
 ## creat list 
