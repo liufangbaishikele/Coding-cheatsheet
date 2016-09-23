@@ -17,8 +17,9 @@ Edit readme.md file
 ## creat list 
 `* ` is used for creat list. e.g., `* list 1` will print out like
 * list1
-* 1.list1.1
-* 
-* list2
-* list1.2
+* 1ist2
+* list3
 
+##link
+Above syntax comes from [github help] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+`[github help] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)` is used to creat this link
