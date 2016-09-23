@@ -21,7 +21,9 @@ Edit readme.md file
 ``quote code``is used to quote a code, which means inside of a sentence
 
 ##Ignore formatting
-`\*ignore this content*\` will print out \ *ignore this content* \
+`\*ignore this content*\` will print out
+
+\*ignore this content*\
 instead of bolded *ignore this content* 
 
 ## creat list 
