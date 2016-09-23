@@ -1,12 +1,15 @@
-## How to creat README.md file using script 
+## Creat README.md file using script 
 
 ```
 vi filename
 copy the content and paste into github file
 Edit readme.md file
 
-````
-## Here are some basic formating syntax
+```
+
+
+
+## Basic formating syntax
 
 `**Words**` are used to bold words. i.e., **Words**
 
@@ -28,3 +31,7 @@ Edit readme.md file
 Above syntax comes from [github help] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 `[github help] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)` is used to creat this link
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
