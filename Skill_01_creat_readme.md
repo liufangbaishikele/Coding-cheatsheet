@@ -8,8 +8,8 @@ Edit readme.md file
 ````
 ## Here are some basic formating syntax
 
-`**Words**` are used to bold text
-**This is used to bold text**
+`**Words**` are used to bold words. i.e., **Words**
+
 * This is used to creat list
 * list?
 # how to exit list?
