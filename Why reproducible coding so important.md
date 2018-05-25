@@ -3,7 +3,7 @@
 **Different attitudes toward coding documentation**
 
   1. It is neccessary because our memory is limited
-  2. It takes time. Meanwhile, it helps to save time.
+  2. It takes time. Meanwhile, it helps to save time in case of trouble shooting and reproducible coding.
   
 **The lesson I learned from bad documentation**
       
