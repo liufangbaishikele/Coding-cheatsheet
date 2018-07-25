@@ -7,7 +7,7 @@
 		```
 		library(pdftools)
 		
-		file_tiff<-pdf_convert("/Users/fangliu/Desktop/file.pdf",format='tiff’,filenames = 'miriam.tiff')
+		file_tiff<-pdf_convert("/Users/fangliu/Desktop/file.pdf",format='tiff’,filenames = 'miriam.tiff',dpi=600)
 		```
 
 * And convert tiff to lzw in linux
