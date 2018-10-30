@@ -1,0 +1,8 @@
+**python**
+
+
+**anaconda**
+
+**$PATH**
+
+**.bashrc**
