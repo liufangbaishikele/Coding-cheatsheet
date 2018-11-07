@@ -1,0 +1,4 @@
+This file were created for testing ``git rm``
+After remove a file using git rm
+Need to git commit
+After git commit, need to git push too
