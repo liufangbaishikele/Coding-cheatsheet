@@ -1,0 +1,500 @@
+  288  git remote -vv
+  289  cd .
+  290  ls
+  291  cd Github_soybean_cultivar/
+  292  ls
+  293  cd Soybean_rhizosphere_microbiome/
+  294  ls
+  295  cd Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly.git/
+  296  git remote -vv
+  297  for gitdir in `find ./ -name .git`;      do          workdir=${gitdir%/*};          echo;          echo $workdir;          git --git-dir=$gitdir --work-tree=$workdir status;      done
+  298  for gitdir in `find ./ -name .git`; do workdir=${gitdir%/*}; echo; echo $workdir; git --git-dir=$gitdir --work-tree=$workdir status; done
+  299  ls
+  300  cd ..
+  301  ls
+  302  cd  Soybean_cultivar_paper.git
+  303  ls
+  304  cd objects/
+  305  ls
+  306  cd 02/
+  307  ls
+  308  cd ..
+  309  ls
+  310  cd 32/
+  311  ls
+  312  vim df61e4854274b360815842bfa5601eca0dc791 
+  313  ls
+  314  cd ..
+  315  ls
+  316  cd ,,
+  317  cd ..
+  318  ls
+  319  cd ..
+  320  ls
+  321  rm -r Soybean_cultivar_paper.git
+  322  yls
+  323  ls
+  324  rm -r Soybean_cultivar_paper.git
+  325  ls
+  326  ls
+  327  cd Github_soybean_cultivar/
+  328  ls
+  329  cd Soybean_rhizosphere_microbiome/
+  330  ls
+  331  cd Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly
+  332  ls
+  333  mkdir Soybean_cultivar_paper_git_clone
+  334  cd Soybean_cultivar_paper_git_clone/
+  335  ls
+  336  git clone https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  337  ls
+  338  cd Soybean_cultivar_paper/
+  339  ls
+  340  ls
+  341  cd ..
+  342  ls
+  343  cd ..
+  344  ls
+  345  cd Soybean_cultivar_paper_git_clone/
+  346  ls
+  347  ls
+  348  git add ../001_Mothur_pipelines/
+  349  git commit -m 'Add mothur pipelines'
+  350  git push
+  351  git push
+  352  git status
+  353  ls
+  354  cd Soybean_cultivar_paper/
+  355  ls
+  356  git add ../../001_Mothur_pipelines/
+  357  git status
+  358  clear
+  359  cd ..
+  360  ls
+  361  cd ..
+  362  ls
+  363  cd Soybean_cultivar_paper_git_clone/ 
+  364  ls
+  365  git add ../001_Mothur_pipelines/
+  366  git commit -m 'Add mothur pipelines'
+  367  git push
+  368  git status
+  369  git push
+  370  git pull
+  371  ls
+  372  cd Soybean_cultivar_paper/
+  373  ls
+  374  cd ..
+  375  ls
+  376  cd ..
+  377  ls
+  378  rm -r Soybean_cultivar_paper_git_clone/
+  379  ls
+  380  git clone https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  381  ls
+  382  cd Soybean_cultivar_paper/
+  383  ls
+  384  git add ../002_Community_analysis_in_R/
+  385  cd ..
+  386  ls
+  387  git add 001_Mothur_pipelines/
+  388  git status
+  389  git commit -m 'Add mothur pipeline try again'
+  390  git push
+  391  ls
+  392  cd ..
+  393  ls
+  394  git status
+  395  ls
+  396  git user
+  397  clear
+  398  cd ..
+  399  ls
+  400  cd Soybean_rhizosphere_microbiome/
+  401  ls
+  402  rm -r Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly.git
+  403  ls
+  404  cd Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly/
+  405  ls
+  406  rm -r Soybean_cultivar_paper/
+  407  ls
+  408  ls
+  409  cd ..
+  410  ls
+  411  cd Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly/
+  412  ls
+  413  git clone https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  414  ls
+  415  git add 001_Mothur_pipelines/
+  416  git commit -m 'try again to add mothur pipeline'
+  417  ls
+  418  git add 001_Mothur_pipelines/
+  419  git status
+  420  git add 001_Mothur_pipelines/
+  421  ls
+  422  cd Soybean_cultivar_paper/
+  423  ls
+  424  cd ..
+  425  ls
+  426  cd Soybean_cultivar_paper/
+  427  ls
+  428  git add ../001_Mothur_pipelines/
+  429  cd ..
+  430  ls
+  431  git add 002_Community_analysis_in_R/
+  432  git commit -m 'Add 002'
+  433  git push
+  434  ls
+  435  git remote -v
+  436  ls
+  437  rm -r Soybean_cultivar_paper/
+  438  ls
+  439  git init
+  440  git add 001_Mothur_pipelines/
+  441  git commit -m 'add mothur pipelines test'
+  442  git remote add origin https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  443  git push -u origin master
+  444  git push
+  445  git remote 
+  446  git remote -v
+  447  git status
+  448  ls
+  449  .git/
+  450  ls
+  451  vim .git
+  452  git config
+  453  git config --local
+  454  git config --show-origin
+  455  git config user.name
+  456  git config --global user.name
+  457  git config --global user.name 'liufangbaishikele'
+  458  git config --user.name
+  459  git config --user.name
+  460  git config --global
+  461  git config --global user.name
+  462  ls
+  463  git init
+  464  git add 001_Mothur_pipelines/
+  465  git commit -m 'test2'
+  466  git ls
+  467  git remote -v
+  468  git init
+  469  git add 002_Community_analysis_in_R/
+  470  git commit -m 'add community analysis'
+  471  git status
+  472  git add 003_Differential_abundance_analysis/
+  473  git status
+  474  git push
+  475  git push -u origin mater
+  476  git remote add origin https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  477  git push
+  478  git push --set-upstream origin master
+  479  git push --help
+  480  git push --help
+  481  git status
+  482  git push --repo=https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  483  git fetch origin master
+  484  git merge origin master
+  485  git status
+  486  git push
+  487  git push --set-upstream origin master
+  488  git push
+  489  git status
+  490  git commit --help
+  491  git commit -m '003'
+  492  git push
+  493  git push --set-upstream origin master
+  494  git remote -v
+  495  git remote add origin https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  496  git branch
+  497  git pull --rebase https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  498  git status
+  499  ls
+  500  exit
+  501  git status
+  502  ls
+  503  cd Github_soybean_cultivar/
+  504  ls
+  505  cd Soybean_rhizosphere_microbiome/
+  506  ls
+  507  git status
+  508  ls
+  509  cd Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly/
+  510  ls
+  511  git status
+  512  ls
+  513  cd 001_Mothur_pipelines/
+  514  ls
+  515  cd ..
+  516  ls
+  517  vim README.md 
+  518  vim README.md 
+  519  ls
+  520  vim README2.md 
+  521  vim README.md 
+  522  ls
+  523  rm README2.md 
+  524  ls
+  525  git init
+  526  git status
+  527  git add 004_Circular_taxonomic_tree/
+  528  git commite -m '004'
+  529  git commit -m '004'
+  530  git push
+  531  ls
+  532  ls
+  533  ls -a
+  534  git remote -v
+  535  git status
+  536  git pull
+  537  git branch
+  538  ls
+  539  git status
+  540  git add .
+  541  git commit -m 'update'
+  542  git status
+  543  git push
+  544  git push origin master
+  545  git pull origin master
+  546  git remote -v
+  547  git pull origin master
+  548  git branch
+  549  git remote -v
+  550  ls
+  551  git status
+  552  git log
+  553  git pull 
+  554  git pull origin master
+  555  git pull --allow-unrelated-histories origin master
+  556  git status
+  557  vim README.md 
+  558  git status
+  559  git add README.md 
+  560  git commit -c 'fix merge conflict'
+  561  git commit -m 'fix merge conflict'
+  562  git push
+  563  git push --set-upstream origin master
+  564  ls
+  565  du -sh *
+  566  cd 005_Network_analysis/
+  567  ls
+  568  clear
+  569  ls
+  570  git rm Dataset.zip 
+  571  ls
+  572  open .
+  573  git stash
+  574  ls
+  575  clear
+  576  ls
+  577  mv Dataset.zip ../..
+  578  ls
+  579  ls ../..
+  580  ls
+  581  clear
+  582  ls
+  583  cd ..
+  584  ls
+  585  du -sh *
+  586  git status
+  587  git add .
+  588  git commit -m 'untrack dataset.zip'
+  589  git push
+  590  git push origin master
+  591  ls
+  592  ls ..
+  593  ls
+  594  git rm 005_Network_analysis/Dataset.zip
+  595  git status
+  596  ls
+  597  ls -a
+  598  git remote -v
+  599  git status
+  600  du -sh *
+  601  cd 005_Network_analysis/
+  602  ls
+  603  ls -a
+  604  git rm Dataset.zip
+  605  git push origin master
+  606  ls
+  607  cd ..
+  608  ls
+  609  cd ..
+  610  ls
+  611  cd ..
+  612  ls
+  613  ls -a
+  614  cd Soybean_rhizosphere_microbiome/
+  615  ls -a
+  616  pwd
+  617  tree -L 2
+  618  open .
+  619  ls -a
+  620  rm -rf .git
+  621  cd Soybean_cultivars_and_soil_types_impacts_on_rhizosphere_microbiome_assembly/
+  622  ls
+  623  ls -a
+  624  rm -rf .git/
+  625  ls
+  626  cd ..
+  627  ls
+  628  git clone https://github.com/liufangbaishikele/Soybean_cultivar_paper.git
+  629  open .
+  630  ls
+  631  cd Soybean_cultivar
+  632  cd Soybean_cultivar_paper/
+  633  ls
+  634  gs
+  635  git status
+  636  touch .gitignore
+  637  vim .gitignore 
+  638  mv ../Dataset.zip .
+  639  ls
+  640  mv Dataset.zip 005_Network_analysis/
+  641  ls
+  642  git status
+  643  cd 005_Network_analysis/
+  644  git status
+  645  cd ..
+  646  ls
+  647  git status
+  648  git add .
+  649  git status
+  650  git commit -m 'update'
+  651  git push origin master
+  652  ls
+  653  cd ..
+  654  open .
+  655  git pull
+  656  git pull origin master
+  657  cd Soybean_cultivar_paper
+  658  git pull
+  659  ls
+  660  git pull
+  661  git pull
+  662  history
+  663  history > git_commands_notes
+  664  vim git_commands_notes 
+  665  ls
+  666  ls
+  667  cd ..
+  668  ls
+  669  cd Soybean_cultivar_paper/
+  670  ls -a
+  671  ls
+  672  ls -a
+  673  cd ..
+  674  ls
+  675  cd ..
+  676  ls
+  677  ls -a
+  678  cd Soybean_rhizosphere_microbiome/
+  679  ls -a
+  680  ls
+  681  cd Soybean_cultivar_paper/
+  682  ls
+  683  ls -a
+  684  cd ..
+  685  ls
+  686  cd
+  687  ls
+  688  mkdir git_practice
+  689  ls
+  690  cd git_practice/
+  691  ls
+  692  ls
+  693  cd ..
+  694  ls
+  695  cd Pictures/
+  696  ls
+  697  cd ..
+  698  ls
+  699  cd Public/
+  700  ls
+  701  cd ..
+  702  ls
+  703  cd Desktop/
+  704  ls
+  705  cd 'Fang Liu material'/'
+  706  cd 'Fang Liu material'
+  707  ls
+  708  mkdir test
+  709  ls
+  710  cp 'Self-introduction and Research foundings Fang Liu.docx' test/
+  711  ls
+  712  cp 'Introduction and research achievements of Dr Meg Staton .docx' test/
+  713  ls
+  714  cd test/
+  715  ls
+  716  ls
+  717  cd ..
+  718  ls
+  719  ls
+  720  cd ..
+  721  ls
+  722  cd 'Fang Liu material'/'
+  723  cd 'Fang Liu material'
+  724  ls
+  725  cd test/
+  726  pwd
+  727  cd
+  728  ls
+  729  cd git_practice/
+  730  mv /Users/fangliu/Desktop/Fang Liu material/test ./
+  731  mv -r /Users/fangliu/Desktop/Fang Liu material/test ./
+  732  ls
+  733  mv /Users/fangliu/Desktop/'Fang Liu material'/test ./
+  734  ls
+  735  ls -a
+  736  ls
+  737  ls
+  738  git clone https://github.com/liufangbaishikele/Coding-cheatsheet.git
+  739  ls
+  740  ls -a
+  741  cd test/
+  742  ls
+  743  ls -a
+  744  cd ..
+  745  ls
+  746  cd ..
+  747  ls
+  748  ls -a
+  749  ls
+  750  cd git_practice/
+  751  ls -sa
+  752  ls -a
+  753  cd Coding-cheatsheet/
+  754  ls -a
+  755  mv ../test/ ./
+  756  ls
+  757  git add test/
+  758  git status
+  759  ls
+  760  git commit -m 'Add test folder to practice git push'
+  761  git push origin master
+  762  ls
+  763  cp test/ test_copy/
+  764  ls
+  765  cp -r test/  test_copy
+  766  ls
+  767  git add test_copy
+  768  ls
+  769  git status
+  770  git commit -m 'push a copy of test_copy' 
+  771  git push origin master
+  772  git pull
+  773  ls
+  774  git rmls 
+  775  ls
+  776  vim git_rm
+  777  ls
+  778  cp git_rm git_rm_copy
+  779  ls
+  780  gt rm git_rm_copy 
+  781  git rm git_rm_copy 
+  782  ls
+  783  git add git_rm* 
+  784  git commit -m 'Practice git rm'
+  785  git push origin master
+  786  git pull
+  787  history > git_command
