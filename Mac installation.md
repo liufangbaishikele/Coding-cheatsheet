@@ -25,3 +25,9 @@
   ```
   export PYTHONPATH="/Users/fangliu/anaconda/lib/python3.5/site-packages:$PYTHONPATH"
   ```
+
+3. My python3.5 path
+
+```
+/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5
+```
