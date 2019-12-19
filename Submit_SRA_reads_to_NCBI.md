@@ -19,12 +19,15 @@
 
 2. Establish an FTP connection using the credentials below:
 ``ftp -i``
-``open ftp-private.ncbi.nlm.nih.gov``
+
+``open ftp-private.ncbi.nlm.nih.gov`` 
+
 Username: subftp
 Password: w4pYB9VQ
 
 3. Navigate to your account folder:
 ``cd uploads/fliu21@vols.utk.edu_I3wI4D6l``
+
 ``mkdir soybean_seed_microbiome_16S``
 
 4. Navigate to the target folder you just created:
@@ -32,6 +35,7 @@ Password: w4pYB9VQ
 
 5. Copy your files into the target folder:
 ``put file_name`` -- this is used to copy one file from the source directory to ncbi server
+
 ``mput *.fastq.gz`` -- mput is used to copy multiple files to the ncbi server.
 
 
